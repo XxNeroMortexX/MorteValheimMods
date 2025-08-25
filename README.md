@@ -1,7 +1,3 @@
-# MorteValheimMods
-This is Mods for my private server of Valheim for friends a quick simple download pack for all mods used on server.
-
-
 
 # 🛠️ MorteMods Valheim Modpack
 
@@ -43,7 +39,7 @@ Welcome to the official modpack for our Valheim server. These mods are required 
 ### Step-by-Step Guide for Players
 
 1. **Download the Modpack ZIP**
-   - Visit: [https://tinyurl.com/MorteMods](https://tinyurl.com/MorteMods)
+   - Visit: [https://github.com/XxNeroMortexX/MorteValheimMods/releases/download/v1.0.0/MorteValheimMods_.V1.0.0.zip](https://github.com/XxNeroMortexX/MorteValheimMods/releases/download/v1.0.0/MorteValheimMods_.V1.0.0.zip)
    - This link points to the curated modpack ZIP hosted by XxNeroMortexX.
 
 2. **Locate Your Valheim Game Folder**
