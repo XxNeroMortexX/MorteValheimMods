@@ -10,12 +10,12 @@ Welcome to the official modpack for our Valheim server. These mods are required 
 | **#** | **Mod Name** | **Description** |
 |----|--------------|-------------------------------|
 | 00 | **BepInExPack** | Core mod loader for Valheim. Enables plugin loading, patching, and logging. Required for all other mods. [🔗 Thunderstore](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) |
-| 01 | **Valheim Plus** | Configurable gameplay overhaul. Includes building precision, server config sync, map sharing, comfort tweaks, and more. [🔗 GitHub](https://github.com/valheimPlus/ValheimPlus) |
+| 01 | **Valheim Plus** | Configurable gameplay overhaul. Includes building precision, server config sync, map sharing, comfort tweaks, and more. [🔗 GitHub](https://github.com/Grantapher/ValheimPlus) |
 | 02 | **MassFarming** | Auto-harvest and grid-based planting. Supports radius pickup and stamina-free planting. [🔗 Thunderstore](https://thunderstore.io/c/valheim/p/k942/MassFarming/) |
 | 03 | **Plant Everything** | Lets you plant berry bushes, mushrooms, thistle, trees, and decorative flora. Highly configurable. [🔗 Nexus](https://www.nexusmods.com/valheim/mods/1042) |
 | 04 | **Azu Crafty Boxes** | Pull crafting materials from nearby containers. Streamlines building and crafting. [🔗 Thunderstore](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) |
 | 05 | **Quick Stack** | Auto-stack items between inventory and containers. [🔗 Nexus](https://www.nexusmods.com/valheim/mods/2094) |
-| 06 | **AZU Extended Inventory** | Expands player inventory space. [🔗 Nexus](https://www.nexusmods.com/valheim/mods/1356) |
+| 06 | **Movable Inventory Windows** | Lets you move and resize all of the inventory windows. [🔗 Nexus](https://www.nexusmods.com/valheim/mods/577) |
 
 ---
 
